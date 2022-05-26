@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/PS5_new.dir/main.c.o  -o PS5_new 

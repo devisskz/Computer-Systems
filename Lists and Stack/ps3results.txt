@@ -1,0 +1,6 @@
+/tmp/tmp.w6DvWc3NiM/cmake-build-cmk-docker/PS3
+89 39 18 96 71 25 2 55 60 -8 9 42 69 96 24 
+89 39 18 71 25 2 55 60 -8 9 42 69 24 
+13
+-8 2 9 18 24 25 39 42 55 60 69 71 89 
+Process finished with exit code 0
